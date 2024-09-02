@@ -3,7 +3,7 @@
 - Nombre : David Edrei Clingan Bretado
 - Correo : edrei.clingan@gmail.com
 
-## Actividad 1
+## Actividad 2
 - p01-Hola-mundo
 - p02-Area-circulo
 - p03-Area-triangulo
