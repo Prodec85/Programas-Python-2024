@@ -49,4 +49,10 @@
 
 
 ## Actividad 6
-- p29-Numeros-1-100
+- p29-Numeros-1-100-v1
+- p29-Numeros-1-100-v2
+- p29-Numeros-1-100-v3
+- p30-Numeros-100-1-v1
+- p31-Numeros-1-200-10
+- p32-Numeros-suma-100
+- p33-Conteo-numeros
