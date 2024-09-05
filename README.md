@@ -39,6 +39,14 @@
 - p21-Aceptar-estudiante-v2
 - p22-Tipo-angulo
 
+## Tarea 2
+- p23-Numeros-consecutivos
+- p24-Numero-mayor
+- p25-Dia-semana
+- p26-Nuemros-romanos
+- p27-Calculo-notas
+- p28-Aceptar-estudiante-v3
+
 
 ## Actividad 6
 - p29-Numeros-1-100

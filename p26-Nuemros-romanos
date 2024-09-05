@@ -1,0 +1,27 @@
+# Dado un numero entre 1 y 10, muestra su equivalente en numero romano.
+import os; os.system("cls")
+print("Dado un numero entre 1 y 10, muestra su equivalente en numero romano.")
+n = int(input("\nDame un numero enterno entre 1 y 10.  "))
+
+if n == 1:
+    print(f"El numero {n} corresponde a I.")
+elif n == 2:
+    print(f"El numero {n} corresponde a II.")
+elif n == 3:
+    print(f"El numero {n} corresponde a III.")
+elif n == 4:
+    print(f"El numero {n} corresponde a VI.")
+elif n == 5:
+    print(f"El numero {n} corresponde a V.")
+elif n == 6:
+    print(f"El numero {n} corresponde a VI.")
+elif n == 7:
+    print(f"El numero {n} corresponde a VII.")
+elif n == 8:
+    print(f"El numero {n} corresponde a VIII.")
+elif n == 9:
+    print(f"El numero {n} corresponde a IX.")
+elif n == 10:
+    print(f"El numero {n} corresponde a X.")
+else:
+    print("ERROR: El numero dado esta fuera del rango.")
