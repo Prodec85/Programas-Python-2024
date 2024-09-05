@@ -32,5 +32,13 @@
 - p17-Convertir-temperaturas-v2
 - p18-Paga-trabajador-v2
 
+## Actividad 5
+-p19-Verifica-suma-v01
+-p20-Ley-de-Newton
+-p21-Aceptar-estudiante-v1
+-p21-Aceptar-estudiante-v2
+-p22-Tipo-angulo
+
+
 ## Actividad 6
 - p29-Numeros-1-100
