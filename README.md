@@ -25,4 +25,12 @@
 - p13-Calculo-tiempo
 - p14-Numero-suerte
 
+## Actividad 4
+- p15-Verificar-numero
+- p16-Verificar-suma
+- p17-Convertir-temperaturas-v1
+- p17-Convertir-temperaturas-v2
+- p18-Paga-trabajador-v2
 
+## Actividad 6
+- p29-Numeros-1-100
