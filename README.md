@@ -71,3 +71,6 @@
 - p42-Suma-200
 - p43-Conversion-temperaturas
 - p44-Número-mayor
+
+## Primer Examen Parcial
+-p45-Primer-examen-parcial
