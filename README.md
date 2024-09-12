@@ -63,3 +63,11 @@
 - p36-Tabla-multiplicar-v1
 - p37-Tabla-multiplicar-v2
 - p38-Adivina-numero
+
+## Tarea 3
+- p39-Impares-ascendentes
+- p40-Pares-descendentes
+- p41-Promedio-suma
+- p42-Suma-200
+- p43-Conversion-temperaturas
+- p44-Número-mayor
