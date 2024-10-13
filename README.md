@@ -74,3 +74,16 @@
 
 ## Primer Examen Parcial
 -p45-Primer-examen-parcial
+
+## Actividad 8
+- p46-Números-1-100-v1
+- p46-Números-1-100-v2
+- p46-Números-1-100-v3
+- p47-Números-1-100-v1
+- p47-Números-1-100-v2
+- p47-Números-1-100-v3
+- p48-Arriba-abajo
+- p49-Suma-pares-impares
+- p50-Suma-números
+- p51-Múltplos-suma
+- p52-Base-exp
