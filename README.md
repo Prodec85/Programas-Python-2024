@@ -87,3 +87,11 @@
 - p50-Suma-números
 - p51-Múltplos-suma
 - p52-Base-exp
+
+## Actividad 9
+- p53-Factorial
+- p54-Tabla-multiplicar-v1
+- p55-Tablas-mutiplicar-v2
+- p56-Pirámide-caracter
+- p57-Factorial-números
+- p58-Combina-colores
