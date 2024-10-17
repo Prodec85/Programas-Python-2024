@@ -95,3 +95,8 @@
 - p56-Pirámide-caracter
 - p57-Factorial-números
 - p58-Combina-colores
+
+## Tarea 4
+- p59-Números-10-en-10
+- p60-Suma-pares-2-n
+- p61-Secuencia-números-1
