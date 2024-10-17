@@ -100,3 +100,5 @@
 - p59-Números-10-en-10
 - p60-Suma-pares-2-n
 - p61-Secuencia-números-1
+- p62-Secuencia-números-2
+- p63-Secuencia-términos-1
